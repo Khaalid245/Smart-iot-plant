@@ -1,0 +1,24 @@
+# Arduino / ESP32 build outputs
+build/
+*.bin
+*.elf
+*.hex
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*~
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Credential protection & private reference files (contains sensitive keys)
+secrets.h
+config.h
+*.env
+*original*
+private/
+
