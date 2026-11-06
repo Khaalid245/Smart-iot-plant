@@ -3,6 +3,8 @@
 **Project Category:** Internet of Things (IoT) – Smart Agriculture  
 **Document Type:** Project Progress and System Documentation  
 **Target Submission:** Faculty Review & Future Engineering Research  
+**Live Working Document:** [Google Docs Report Link](https://docs.google.com/document/d/1Q1-AlOi8aLZjdMNq_-o0DTQQQLkpDbfBQjbCatKtbTs/edit?usp=sharing)  
+**Video Demonstration:** [Google Drive Demonstration Video](https://drive.google.com/file/d/11KuWNJYG0KnH_6pfq71ejDUqodnfkro_/view?usp=sharing)  
 
 ---
 

@@ -73,8 +73,7 @@ The system integrates two separate cloud communication pipelines:
 
 A video demonstrating the hardware setup, sensor operation, and web interface is available here:
 
-- **Google Drive Demonstration Link:** [Watch Project Demonstration](https://drive.google.com/your-drive-link-here)  
-  *(Replace with your team's Google Drive sharing link)*
+- **Google Drive Demonstration Link:** [Watch Project Demonstration (Google Drive)](https://drive.google.com/file/d/11KuWNJYG0KnH_6pfq71ejDUqodnfkro_/view?usp=sharing)
 
 ---
 
@@ -144,4 +143,6 @@ smart-plant-iot/
 
 ## Detailed Project Report
 
-For a complete technical breakdown including the problem statement, system architecture, pin assignments, and future engineering milestones, please refer to the [Project Progress Report](docs/project-progress-report.md).
+For a complete technical breakdown including the problem statement, system architecture, pin assignments, and future engineering milestones, please refer to:
+- **Repository Progress Report:** [docs/project-progress-report.md](docs/project-progress-report.md)
+- **Live Google Docs Report:** [View Project Progress Report on Google Docs](https://docs.google.com/document/d/1Q1-AlOi8aLZjdMNq_-o0DTQQQLkpDbfBQjbCatKtbTs/edit?usp=sharing)
